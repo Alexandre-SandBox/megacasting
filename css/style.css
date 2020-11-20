@@ -1,0 +1,17 @@
+#game{
+    width: 600px;
+    height: 400px;
+    background: url('../img/background.png');
+}
+#spaceship{
+    width: 100px;
+    position: absolute;
+    top: 300px;
+    left: 70px;
+    z-index: 50;
+}
+#loot{
+    z-index: 25;
+    width: 30px;
+    position: absolute;
+}
